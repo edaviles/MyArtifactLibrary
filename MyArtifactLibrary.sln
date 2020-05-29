@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyArtifactLibrary", "MyArtifactLibrary\MyArtifactLibrary.csproj", "{C94753EB-4BE9-40F5-B571-A2DAD7C233AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C94753EB-4BE9-40F5-B571-A2DAD7C233AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C94753EB-4BE9-40F5-B571-A2DAD7C233AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C94753EB-4BE9-40F5-B571-A2DAD7C233AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C94753EB-4BE9-40F5-B571-A2DAD7C233AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56A741C0-041D-4E43-8FD7-873B006FDD63}
+	EndGlobalSection
+EndGlobal
